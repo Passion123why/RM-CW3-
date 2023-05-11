@@ -1,0 +1,1 @@
+define({ availableImg: ["Fielder2018","Pfleeger2009","Zhao2019","Kosutic2022","Zeijlemaker2022","Linkov2013","Sawik2022","Chronopoulos2017","Kweon2021","Paul2021"]});
